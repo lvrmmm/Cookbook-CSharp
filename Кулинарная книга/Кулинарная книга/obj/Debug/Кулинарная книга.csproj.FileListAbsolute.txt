@@ -1,0 +1,111 @@
+C:\Users\user\Desktop\Машулькинс\Кулинарная книга\Кулинарная книга\bin\Debug\Кулинарная книга.exe.config
+C:\Users\user\Desktop\Машулькинс\Кулинарная книга\Кулинарная книга\bin\Debug\Кулинарная книга.exe
+C:\Users\user\Desktop\Машулькинс\Кулинарная книга\Кулинарная книга\bin\Debug\Кулинарная книга.pdb
+C:\Users\user\Desktop\Машулькинс\Кулинарная книга\Кулинарная книга\obj\Debug\Кулинарная книга.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Машулькинс\Кулинарная книга\Кулинарная книга\obj\Debug\Кулинарная_книга.Form1.resources
+C:\Users\user\Desktop\Машулькинс\Кулинарная книга\Кулинарная книга\obj\Debug\Кулинарная_книга.Properties.Resources.resources
+C:\Users\user\Desktop\Машулькинс\Кулинарная книга\Кулинарная книга\obj\Debug\Кулинарная книга.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Машулькинс\Кулинарная книга\Кулинарная книга\obj\Debug\Кулинарная книга.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Машулькинс\Кулинарная книга\Кулинарная книга\obj\Debug\Кулинарная книга.exe
+C:\Users\user\Desktop\Машулькинс\Кулинарная книга\Кулинарная книга\obj\Debug\Кулинарная книга.pdb
+C:\Users\user\Desktop\Машулькинс\Кулинарная книга\Кулинарная книга\obj\Debug\Кулинарная_книга.Breakfast.resources
+C:\Users\lvrmm\OneDrive\Рабочий стол\Кулинарная книга\Кулинарная книга\bin\Debug\x86\sqlite3.dll
+C:\Users\lvrmm\OneDrive\Рабочий стол\Кулинарная книга\Кулинарная книга\bin\Debug\x64\sqlite3.dll
+C:\Users\lvrmm\OneDrive\Рабочий стол\Кулинарная книга\Кулинарная книга\bin\Debug\Кулинарная книга.exe.config
+C:\Users\lvrmm\OneDrive\Рабочий стол\Кулинарная книга\Кулинарная книга\bin\Debug\Кулинарная книга.exe
+C:\Users\lvrmm\OneDrive\Рабочий стол\Кулинарная книга\Кулинарная книга\bin\Debug\Кулинарная книга.pdb
+C:\Users\lvrmm\OneDrive\Рабочий стол\Кулинарная книга\Кулинарная книга\bin\Debug\Azure.Core.dll
+C:\Users\lvrmm\OneDrive\Рабочий стол\Кулинарная книга\Кулинарная книга\bin\Debug\Azure.Identity.dll
+C:\Users\lvrmm\OneDrive\Рабочий стол\Кулинарная книга\Кулинарная книга\bin\Debug\EntityFramework.dll
+C:\Users\lvrmm\OneDrive\Рабочий стол\Кулинарная книга\Кулинарная книга\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lvrmm\OneDrive\Рабочий стол\Кулинарная книга\Кулинарная книга\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\lvrmm\OneDrive\Рабочий стол\Кулинарная книга\Кулинарная книга\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\lvrmm\OneDrive\Рабочий стол\Кулинарная книга\Кулинарная книга\bin\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\lvrmm\OneDrive\Рабочий стол\Кулинарная книга\Кулинарная книга\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\lvrmm\OneDrive\Рабочий стол\Кулинарная книга\Кулинарная книга\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\lvrmm\OneDrive\Рабочий стол\Кулинарная книга\Кулинарная книга\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\lvrmm\OneDrive\Рабочий стол\Кулинарная книга\Кулинарная книга\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\lvrmm\OneDrive\Рабочий стол\Кулинарная книга\Кулинарная книга\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\lvrmm\OneDrive\Рабочий стол\Кулинарная книга\Кулинарная книга\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\lvrmm\OneDrive\Рабочий стол\Кулинарная книга\Кулинарная книга\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\lvrmm\OneDrive\Рабочий стол\Кулинарная книга\Кулинарная книга\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\lvrmm\OneDrive\Рабочий стол\Кулинарная книга\Кулинарная книга\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\lvrmm\OneDrive\Рабочий стол\Кулинарная книга\Кулинарная книга\bin\Debug\System.Buffers.dll
+C:\Users\lvrmm\OneDrive\Рабочий стол\Кулинарная книга\Кулинарная книга\bin\Debug\System.ClientModel.dll
+C:\Users\lvrmm\OneDrive\Рабочий стол\Кулинарная книга\Кулинарная книга\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\lvrmm\OneDrive\Рабочий стол\Кулинарная книга\Кулинарная книга\bin\Debug\System.Data.SQLite.dll
+C:\Users\lvrmm\OneDrive\Рабочий стол\Кулинарная книга\Кулинарная книга\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\lvrmm\OneDrive\Рабочий стол\Кулинарная книга\Кулинарная книга\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\lvrmm\OneDrive\Рабочий стол\Кулинарная книга\Кулинарная книга\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\lvrmm\OneDrive\Рабочий стол\Кулинарная книга\Кулинарная книга\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\lvrmm\OneDrive\Рабочий стол\Кулинарная книга\Кулинарная книга\bin\Debug\System.IO.FileSystem.AccessControl.dll
+C:\Users\lvrmm\OneDrive\Рабочий стол\Кулинарная книга\Кулинарная книга\bin\Debug\System.Memory.Data.dll
+C:\Users\lvrmm\OneDrive\Рабочий стол\Кулинарная книга\Кулинарная книга\bin\Debug\System.Memory.dll
+C:\Users\lvrmm\OneDrive\Рабочий стол\Кулинарная книга\Кулинарная книга\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\lvrmm\OneDrive\Рабочий стол\Кулинарная книга\Кулинарная книга\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\lvrmm\OneDrive\Рабочий стол\Кулинарная книга\Кулинарная книга\bin\Debug\System.Security.AccessControl.dll
+C:\Users\lvrmm\OneDrive\Рабочий стол\Кулинарная книга\Кулинарная книга\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lvrmm\OneDrive\Рабочий стол\Кулинарная книга\Кулинарная книга\bin\Debug\System.Security.Permissions.dll
+C:\Users\lvrmm\OneDrive\Рабочий стол\Кулинарная книга\Кулинарная книга\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\lvrmm\OneDrive\Рабочий стол\Кулинарная книга\Кулинарная книга\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\lvrmm\OneDrive\Рабочий стол\Кулинарная книга\Кулинарная книга\bin\Debug\System.Text.Json.dll
+C:\Users\lvrmm\OneDrive\Рабочий стол\Кулинарная книга\Кулинарная книга\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\lvrmm\OneDrive\Рабочий стол\Кулинарная книга\Кулинарная книга\bin\Debug\System.ValueTuple.dll
+C:\Users\lvrmm\OneDrive\Рабочий стол\Кулинарная книга\Кулинарная книга\bin\Debug\Azure.Core.xml
+C:\Users\lvrmm\OneDrive\Рабочий стол\Кулинарная книга\Кулинарная книга\bin\Debug\Azure.Identity.xml
+C:\Users\lvrmm\OneDrive\Рабочий стол\Кулинарная книга\Кулинарная книга\bin\Debug\EntityFramework.xml
+C:\Users\lvrmm\OneDrive\Рабочий стол\Кулинарная книга\Кулинарная книга\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\lvrmm\OneDrive\Рабочий стол\Кулинарная книга\Кулинарная книга\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\lvrmm\OneDrive\Рабочий стол\Кулинарная книга\Кулинарная книга\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\lvrmm\OneDrive\Рабочий стол\Кулинарная книга\Кулинарная книга\bin\Debug\Microsoft.Data.Sqlite.xml
+C:\Users\lvrmm\OneDrive\Рабочий стол\Кулинарная книга\Кулинарная книга\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\lvrmm\OneDrive\Рабочий стол\Кулинарная книга\Кулинарная книга\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\lvrmm\OneDrive\Рабочий стол\Кулинарная книга\Кулинарная книга\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\lvrmm\OneDrive\Рабочий стол\Кулинарная книга\Кулинарная книга\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\lvrmm\OneDrive\Рабочий стол\Кулинарная книга\Кулинарная книга\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\lvrmm\OneDrive\Рабочий стол\Кулинарная книга\Кулинарная книга\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\lvrmm\OneDrive\Рабочий стол\Кулинарная книга\Кулинарная книга\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\lvrmm\OneDrive\Рабочий стол\Кулинарная книга\Кулинарная книга\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\lvrmm\OneDrive\Рабочий стол\Кулинарная книга\Кулинарная книга\bin\Debug\System.Buffers.xml
+C:\Users\lvrmm\OneDrive\Рабочий стол\Кулинарная книга\Кулинарная книга\bin\Debug\System.ClientModel.xml
+C:\Users\lvrmm\OneDrive\Рабочий стол\Кулинарная книга\Кулинарная книга\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\lvrmm\OneDrive\Рабочий стол\Кулинарная книга\Кулинарная книга\bin\Debug\System.Data.SQLite.xml
+C:\Users\lvrmm\OneDrive\Рабочий стол\Кулинарная книга\Кулинарная книга\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\lvrmm\OneDrive\Рабочий стол\Кулинарная книга\Кулинарная книга\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\lvrmm\OneDrive\Рабочий стол\Кулинарная книга\Кулинарная книга\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\lvrmm\OneDrive\Рабочий стол\Кулинарная книга\Кулинарная книга\bin\Debug\System.Memory.xml
+C:\Users\lvrmm\OneDrive\Рабочий стол\Кулинарная книга\Кулинарная книга\bin\Debug\System.Memory.Data.xml
+C:\Users\lvrmm\OneDrive\Рабочий стол\Кулинарная книга\Кулинарная книга\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\lvrmm\OneDrive\Рабочий стол\Кулинарная книга\Кулинарная книга\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\lvrmm\OneDrive\Рабочий стол\Кулинарная книга\Кулинарная книга\bin\Debug\System.Security.AccessControl.xml
+C:\Users\lvrmm\OneDrive\Рабочий стол\Кулинарная книга\Кулинарная книга\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\lvrmm\OneDrive\Рабочий стол\Кулинарная книга\Кулинарная книга\bin\Debug\System.Security.Permissions.xml
+C:\Users\lvrmm\OneDrive\Рабочий стол\Кулинарная книга\Кулинарная книга\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\lvrmm\OneDrive\Рабочий стол\Кулинарная книга\Кулинарная книга\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\lvrmm\OneDrive\Рабочий стол\Кулинарная книга\Кулинарная книга\bin\Debug\System.Text.Json.xml
+C:\Users\lvrmm\OneDrive\Рабочий стол\Кулинарная книга\Кулинарная книга\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\lvrmm\OneDrive\Рабочий стол\Кулинарная книга\Кулинарная книга\bin\Debug\System.ValueTuple.xml
+C:\Users\lvrmm\OneDrive\Рабочий стол\Кулинарная книга\Кулинарная книга\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\lvrmm\OneDrive\Рабочий стол\Кулинарная книга\Кулинарная книга\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\lvrmm\OneDrive\Рабочий стол\Кулинарная книга\Кулинарная книга\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\lvrmm\OneDrive\Рабочий стол\Кулинарная книга\Кулинарная книга\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\lvrmm\OneDrive\Рабочий стол\Кулинарная книга\Кулинарная книга\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\lvrmm\OneDrive\Рабочий стол\Кулинарная книга\Кулинарная книга\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\lvrmm\OneDrive\Рабочий стол\Кулинарная книга\Кулинарная книга\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\lvrmm\OneDrive\Рабочий стол\Кулинарная книга\Кулинарная книга\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\lvrmm\OneDrive\Рабочий стол\Кулинарная книга\Кулинарная книга\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\lvrmm\OneDrive\Рабочий стол\Кулинарная книга\Кулинарная книга\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\lvrmm\OneDrive\Рабочий стол\Кулинарная книга\Кулинарная книга\obj\Debug\Кулинарная книга.csproj.AssemblyReference.cache
+C:\Users\lvrmm\OneDrive\Рабочий стол\Кулинарная книга\Кулинарная книга\obj\Debug\Кулинарная_книга.Breakfast.resources
+C:\Users\lvrmm\OneDrive\Рабочий стол\Кулинарная книга\Кулинарная книга\obj\Debug\Кулинарная_книга.Dinner.resources
+C:\Users\lvrmm\OneDrive\Рабочий стол\Кулинарная книга\Кулинарная книга\obj\Debug\Кулинарная_книга.Form1.resources
+C:\Users\lvrmm\OneDrive\Рабочий стол\Кулинарная книга\Кулинарная книга\obj\Debug\Кулинарная_книга.Properties.Resources.resources
+C:\Users\lvrmm\OneDrive\Рабочий стол\Кулинарная книга\Кулинарная книга\obj\Debug\Кулинарная_книга.Supper.resources
+C:\Users\lvrmm\OneDrive\Рабочий стол\Кулинарная книга\Кулинарная книга\obj\Debug\Кулинарная книга.csproj.GenerateResource.cache
+C:\Users\lvrmm\OneDrive\Рабочий стол\Кулинарная книга\Кулинарная книга\obj\Debug\Кулинарная книга.csproj.CoreCompileInputs.cache
+C:\Users\lvrmm\OneDrive\Рабочий стол\Кулинарная книга\Кулинарная книга\obj\Debug\Кулинарн.769E73C5.Up2Date
+C:\Users\lvrmm\OneDrive\Рабочий стол\Кулинарная книга\Кулинарная книга\obj\Debug\Кулинарная книга.exe
+C:\Users\lvrmm\OneDrive\Рабочий стол\Кулинарная книга\Кулинарная книга\obj\Debug\Кулинарная книга.pdb
+C:\Users\lvrmm\Desktop\Учеба\Кулинарная книга\Кулинарная книга\Кулинарная книга\obj\Debug\Кулинарная книга.csproj.AssemblyReference.cache
+C:\Users\lvrmm\Desktop\Учеба\Кулинарная книга\Кулинарная книга\Кулинарная книга\obj\Debug\Кулинарная книга.exe
+C:\Users\lvrmm\Desktop\Учеба\Кулинарная книга\Кулинарная книга\Кулинарная книга\obj\Debug\Кулинарная книга.pdb

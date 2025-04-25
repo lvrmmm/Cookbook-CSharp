@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Кулинарная_книга.Breakfast" Collapsed="true">
+    <Position X="7.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAIAAAAAAWAAAhAQAASAAAACAgg4AgAAAOAQAQAAAAI=</HashCode>
+      <FileName>Breakfast.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Кулинарная_книга.Dinner" Collapsed="true">
+    <Position X="10" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAIABAAAAWAAABAQCASAAAACAgg4AhgAAIAAAQAAAAI=</HashCode>
+      <FileName>Dinner.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Кулинарная_книга.Form1" Collapsed="true">
+    <Position X="7.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAASCACAAARAAAICAAAACAAAAEAAAoAQAAAAAAAA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Кулинарная_книга.Supper" Collapsed="true">
+    <Position X="10" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAIABAAAAWEAABAQCASAAAACAggYApgAAIAAAQAAAAI=</HashCode>
+      <FileName>Supper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Кулинарная_книга.Recipes" Collapsed="true">
+    <Position X="5.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAABAAAAAQAAgAAAAAAAAAQAAAAFAAAAAQAAACAAAwA=</HashCode>
+      <FileName>Recipes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Кулинарная_книга.Program" Collapsed="true">
+    <Position X="3" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Object" Collapsed="true">
+    <Position X="4.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Windows.Forms.Form" Collapsed="true">
+    <Position X="8.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
